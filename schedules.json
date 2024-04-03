@@ -1,0 +1,922 @@
+[
+    [
+        {
+            "course_name": "CSCI 3030",
+            "section_crn": "28723",
+            "classes": [
+                {
+                    "start_time": "8:00am",
+                    "end_time": "8:50am",
+                    "day_of_week": "mon",
+                    "location": "Miller Plant Sci 2401"
+                },
+                {
+                    "start_time": "12:40pm",
+                    "end_time": "1:30pm",
+                    "day_of_week": "mon",
+                    "location": "Boyd Research & Education CTR 201"
+                },
+                {
+                    "start_time": "8:00am",
+                    "end_time": "8:50am",
+                    "day_of_week": "wed",
+                    "location": "Miller Plant Sci 2401"
+                }
+            ]
+        },
+        {
+            "course_name": "CSCI 4050",
+            "section_crn": "15157",
+            "classes": [
+                {
+                    "start_time": "10:20am",
+                    "end_time": "11:10am",
+                    "day_of_week": "mon",
+                    "location": "Geography Geology 200C"
+                },
+                {
+                    "start_time": "9:35am",
+                    "end_time": "10:50am",
+                    "day_of_week": "tue",
+                    "location": "Physics 303"
+                },
+                {
+                    "start_time": "9:35am",
+                    "end_time": "10:50am",
+                    "day_of_week": "thu",
+                    "location": "Physics 303"
+                }
+            ]
+        },
+        {
+            "course_name": "ECHD 3050",
+            "section_crn": "50944",
+            "classes": [
+                {
+                    "start_time": "11:30am",
+                    "end_time": "12:20pm",
+                    "day_of_week": "mon",
+                    "location": "Aderhold Hall 401"
+                },
+                {
+                    "start_time": "11:30am",
+                    "end_time": "12:20pm",
+                    "day_of_week": "wed",
+                    "location": "Aderhold Hall 401"
+                }
+            ]
+        },
+        {
+            "course_name": "CSCI 4720",
+            "section_crn": "39857",
+            "classes": [
+                {
+                    "start_time": "5:30pm",
+                    "end_time": "6:45pm",
+                    "day_of_week": "tue",
+                    "location": "Conner Hall 210"
+                },
+                {
+                    "start_time": "5:20pm",
+                    "end_time": "6:10pm",
+                    "day_of_week": "wed",
+                    "location": "Conner Hall 210"
+                },
+                {
+                    "start_time": "5:30pm",
+                    "end_time": "6:45pm",
+                    "day_of_week": "thu",
+                    "location": "Conner Hall 210"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "course_name": "CSCI 3030",
+            "section_crn": "34115",
+            "classes": [
+                {
+                    "start_time": "8:00am",
+                    "end_time": "8:50am",
+                    "day_of_week": "mon",
+                    "location": "Miller Plant Sci 2401"
+                },
+                {
+                    "start_time": "1:50pm",
+                    "end_time": "2:40pm",
+                    "day_of_week": "mon",
+                    "location": "Boyd Research & Education CTR 201"
+                },
+                {
+                    "start_time": "8:00am",
+                    "end_time": "8:50am",
+                    "day_of_week": "wed",
+                    "location": "Miller Plant Sci 2401"
+                }
+            ]
+        },
+        {
+            "course_name": "CSCI 4050",
+            "section_crn": "15157",
+            "classes": [
+                {
+                    "start_time": "10:20am",
+                    "end_time": "11:10am",
+                    "day_of_week": "mon",
+                    "location": "Geography Geology 200C"
+                },
+                {
+                    "start_time": "9:35am",
+                    "end_time": "10:50am",
+                    "day_of_week": "tue",
+                    "location": "Physics 303"
+                },
+                {
+                    "start_time": "9:35am",
+                    "end_time": "10:50am",
+                    "day_of_week": "thu",
+                    "location": "Physics 303"
+                }
+            ]
+        },
+        {
+            "course_name": "ECHD 3050",
+            "section_crn": "50944",
+            "classes": [
+                {
+                    "start_time": "11:30am",
+                    "end_time": "12:20pm",
+                    "day_of_week": "mon",
+                    "location": "Aderhold Hall 401"
+                },
+                {
+                    "start_time": "11:30am",
+                    "end_time": "12:20pm",
+                    "day_of_week": "wed",
+                    "location": "Aderhold Hall 401"
+                }
+            ]
+        },
+        {
+            "course_name": "CSCI 4720",
+            "section_crn": "39857",
+            "classes": [
+                {
+                    "start_time": "5:30pm",
+                    "end_time": "6:45pm",
+                    "day_of_week": "tue",
+                    "location": "Conner Hall 210"
+                },
+                {
+                    "start_time": "5:20pm",
+                    "end_time": "6:10pm",
+                    "day_of_week": "wed",
+                    "location": "Conner Hall 210"
+                },
+                {
+                    "start_time": "5:30pm",
+                    "end_time": "6:45pm",
+                    "day_of_week": "thu",
+                    "location": "Conner Hall 210"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "course_name": "CSCI 3030",
+            "section_crn": "49689",
+            "classes": [
+                {
+                    "start_time": "12:40pm",
+                    "end_time": "1:30pm",
+                    "day_of_week": "mon",
+                    "location": "Ecology 201"
+                },
+                {
+                    "start_time": "12:40pm",
+                    "end_time": "1:30pm",
+                    "day_of_week": "wed",
+                    "location": "Ecology 201"
+                },
+                {
+                    "start_time": "11:30am",
+                    "end_time": "12:20pm",
+                    "day_of_week": "fri",
+                    "location": "Boyd Research & Education CTR 201"
+                }
+            ]
+        },
+        {
+            "course_name": "CSCI 4050",
+            "section_crn": "15157",
+            "classes": [
+                {
+                    "start_time": "10:20am",
+                    "end_time": "11:10am",
+                    "day_of_week": "mon",
+                    "location": "Geography Geology 200C"
+                },
+                {
+                    "start_time": "9:35am",
+                    "end_time": "10:50am",
+                    "day_of_week": "tue",
+                    "location": "Physics 303"
+                },
+                {
+                    "start_time": "9:35am",
+                    "end_time": "10:50am",
+                    "day_of_week": "thu",
+                    "location": "Physics 303"
+                }
+            ]
+        },
+        {
+            "course_name": "ECHD 3050",
+            "section_crn": "50944",
+            "classes": [
+                {
+                    "start_time": "11:30am",
+                    "end_time": "12:20pm",
+                    "day_of_week": "mon",
+                    "location": "Aderhold Hall 401"
+                },
+                {
+                    "start_time": "11:30am",
+                    "end_time": "12:20pm",
+                    "day_of_week": "wed",
+                    "location": "Aderhold Hall 401"
+                }
+            ]
+        },
+        {
+            "course_name": "CSCI 4720",
+            "section_crn": "31806",
+            "classes": [
+                {
+                    "start_time": "8:00am",
+                    "end_time": "8:50am",
+                    "day_of_week": "mon",
+                    "location": "Biological Science 404D"
+                },
+                {
+                    "start_time": "8:00am",
+                    "end_time": "9:15am",
+                    "day_of_week": "tue",
+                    "location": "Biological Science 404D"
+                },
+                {
+                    "start_time": "8:00am",
+                    "end_time": "9:15am",
+                    "day_of_week": "thu",
+                    "location": "Biological Science 404D"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "course_name": "CSCI 3030",
+            "section_crn": "49689",
+            "classes": [
+                {
+                    "start_time": "12:40pm",
+                    "end_time": "1:30pm",
+                    "day_of_week": "mon",
+                    "location": "Ecology 201"
+                },
+                {
+                    "start_time": "12:40pm",
+                    "end_time": "1:30pm",
+                    "day_of_week": "wed",
+                    "location": "Ecology 201"
+                },
+                {
+                    "start_time": "11:30am",
+                    "end_time": "12:20pm",
+                    "day_of_week": "fri",
+                    "location": "Boyd Research & Education CTR 201"
+                }
+            ]
+        },
+        {
+            "course_name": "CSCI 4050",
+            "section_crn": "15157",
+            "classes": [
+                {
+                    "start_time": "10:20am",
+                    "end_time": "11:10am",
+                    "day_of_week": "mon",
+                    "location": "Geography Geology 200C"
+                },
+                {
+                    "start_time": "9:35am",
+                    "end_time": "10:50am",
+                    "day_of_week": "tue",
+                    "location": "Physics 303"
+                },
+                {
+                    "start_time": "9:35am",
+                    "end_time": "10:50am",
+                    "day_of_week": "thu",
+                    "location": "Physics 303"
+                }
+            ]
+        },
+        {
+            "course_name": "ECHD 3050",
+            "section_crn": "50944",
+            "classes": [
+                {
+                    "start_time": "11:30am",
+                    "end_time": "12:20pm",
+                    "day_of_week": "mon",
+                    "location": "Aderhold Hall 401"
+                },
+                {
+                    "start_time": "11:30am",
+                    "end_time": "12:20pm",
+                    "day_of_week": "wed",
+                    "location": "Aderhold Hall 401"
+                }
+            ]
+        },
+        {
+            "course_name": "CSCI 4720",
+            "section_crn": "39857",
+            "classes": [
+                {
+                    "start_time": "5:30pm",
+                    "end_time": "6:45pm",
+                    "day_of_week": "tue",
+                    "location": "Conner Hall 210"
+                },
+                {
+                    "start_time": "5:20pm",
+                    "end_time": "6:10pm",
+                    "day_of_week": "wed",
+                    "location": "Conner Hall 210"
+                },
+                {
+                    "start_time": "5:30pm",
+                    "end_time": "6:45pm",
+                    "day_of_week": "thu",
+                    "location": "Conner Hall 210"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "course_name": "CSCI 3030",
+            "section_crn": "49690",
+            "classes": [
+                {
+                    "start_time": "12:40pm",
+                    "end_time": "1:30pm",
+                    "day_of_week": "mon",
+                    "location": "Ecology 201"
+                },
+                {
+                    "start_time": "12:40pm",
+                    "end_time": "1:30pm",
+                    "day_of_week": "wed",
+                    "location": "Ecology 201"
+                },
+                {
+                    "start_time": "10:20am",
+                    "end_time": "11:10am",
+                    "day_of_week": "fri",
+                    "location": "Boyd Research & Education CTR 201"
+                }
+            ]
+        },
+        {
+            "course_name": "CSCI 4050",
+            "section_crn": "15157",
+            "classes": [
+                {
+                    "start_time": "10:20am",
+                    "end_time": "11:10am",
+                    "day_of_week": "mon",
+                    "location": "Geography Geology 200C"
+                },
+                {
+                    "start_time": "9:35am",
+                    "end_time": "10:50am",
+                    "day_of_week": "tue",
+                    "location": "Physics 303"
+                },
+                {
+                    "start_time": "9:35am",
+                    "end_time": "10:50am",
+                    "day_of_week": "thu",
+                    "location": "Physics 303"
+                }
+            ]
+        },
+        {
+            "course_name": "ECHD 3050",
+            "section_crn": "50944",
+            "classes": [
+                {
+                    "start_time": "11:30am",
+                    "end_time": "12:20pm",
+                    "day_of_week": "mon",
+                    "location": "Aderhold Hall 401"
+                },
+                {
+                    "start_time": "11:30am",
+                    "end_time": "12:20pm",
+                    "day_of_week": "wed",
+                    "location": "Aderhold Hall 401"
+                }
+            ]
+        },
+        {
+            "course_name": "CSCI 4720",
+            "section_crn": "31806",
+            "classes": [
+                {
+                    "start_time": "8:00am",
+                    "end_time": "8:50am",
+                    "day_of_week": "mon",
+                    "location": "Biological Science 404D"
+                },
+                {
+                    "start_time": "8:00am",
+                    "end_time": "9:15am",
+                    "day_of_week": "tue",
+                    "location": "Biological Science 404D"
+                },
+                {
+                    "start_time": "8:00am",
+                    "end_time": "9:15am",
+                    "day_of_week": "thu",
+                    "location": "Biological Science 404D"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "course_name": "CSCI 3030",
+            "section_crn": "49690",
+            "classes": [
+                {
+                    "start_time": "12:40pm",
+                    "end_time": "1:30pm",
+                    "day_of_week": "mon",
+                    "location": "Ecology 201"
+                },
+                {
+                    "start_time": "12:40pm",
+                    "end_time": "1:30pm",
+                    "day_of_week": "wed",
+                    "location": "Ecology 201"
+                },
+                {
+                    "start_time": "10:20am",
+                    "end_time": "11:10am",
+                    "day_of_week": "fri",
+                    "location": "Boyd Research & Education CTR 201"
+                }
+            ]
+        },
+        {
+            "course_name": "CSCI 4050",
+            "section_crn": "15157",
+            "classes": [
+                {
+                    "start_time": "10:20am",
+                    "end_time": "11:10am",
+                    "day_of_week": "mon",
+                    "location": "Geography Geology 200C"
+                },
+                {
+                    "start_time": "9:35am",
+                    "end_time": "10:50am",
+                    "day_of_week": "tue",
+                    "location": "Physics 303"
+                },
+                {
+                    "start_time": "9:35am",
+                    "end_time": "10:50am",
+                    "day_of_week": "thu",
+                    "location": "Physics 303"
+                }
+            ]
+        },
+        {
+            "course_name": "ECHD 3050",
+            "section_crn": "50944",
+            "classes": [
+                {
+                    "start_time": "11:30am",
+                    "end_time": "12:20pm",
+                    "day_of_week": "mon",
+                    "location": "Aderhold Hall 401"
+                },
+                {
+                    "start_time": "11:30am",
+                    "end_time": "12:20pm",
+                    "day_of_week": "wed",
+                    "location": "Aderhold Hall 401"
+                }
+            ]
+        },
+        {
+            "course_name": "CSCI 4720",
+            "section_crn": "39857",
+            "classes": [
+                {
+                    "start_time": "5:30pm",
+                    "end_time": "6:45pm",
+                    "day_of_week": "tue",
+                    "location": "Conner Hall 210"
+                },
+                {
+                    "start_time": "5:20pm",
+                    "end_time": "6:10pm",
+                    "day_of_week": "wed",
+                    "location": "Conner Hall 210"
+                },
+                {
+                    "start_time": "5:30pm",
+                    "end_time": "6:45pm",
+                    "day_of_week": "thu",
+                    "location": "Conner Hall 210"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "course_name": "CSCI 3030",
+            "section_crn": "49691",
+            "classes": [
+                {
+                    "start_time": "12:40pm",
+                    "end_time": "1:30pm",
+                    "day_of_week": "mon",
+                    "location": "Ecology 201"
+                },
+                {
+                    "start_time": "12:40pm",
+                    "end_time": "1:30pm",
+                    "day_of_week": "wed",
+                    "location": "Ecology 201"
+                },
+                {
+                    "start_time": "9:10am",
+                    "end_time": "10:00am",
+                    "day_of_week": "fri",
+                    "location": "Boyd Research & Education CTR 201"
+                }
+            ]
+        },
+        {
+            "course_name": "CSCI 4050",
+            "section_crn": "15157",
+            "classes": [
+                {
+                    "start_time": "10:20am",
+                    "end_time": "11:10am",
+                    "day_of_week": "mon",
+                    "location": "Geography Geology 200C"
+                },
+                {
+                    "start_time": "9:35am",
+                    "end_time": "10:50am",
+                    "day_of_week": "tue",
+                    "location": "Physics 303"
+                },
+                {
+                    "start_time": "9:35am",
+                    "end_time": "10:50am",
+                    "day_of_week": "thu",
+                    "location": "Physics 303"
+                }
+            ]
+        },
+        {
+            "course_name": "ECHD 3050",
+            "section_crn": "50944",
+            "classes": [
+                {
+                    "start_time": "11:30am",
+                    "end_time": "12:20pm",
+                    "day_of_week": "mon",
+                    "location": "Aderhold Hall 401"
+                },
+                {
+                    "start_time": "11:30am",
+                    "end_time": "12:20pm",
+                    "day_of_week": "wed",
+                    "location": "Aderhold Hall 401"
+                }
+            ]
+        },
+        {
+            "course_name": "CSCI 4720",
+            "section_crn": "31806",
+            "classes": [
+                {
+                    "start_time": "8:00am",
+                    "end_time": "8:50am",
+                    "day_of_week": "mon",
+                    "location": "Biological Science 404D"
+                },
+                {
+                    "start_time": "8:00am",
+                    "end_time": "9:15am",
+                    "day_of_week": "tue",
+                    "location": "Biological Science 404D"
+                },
+                {
+                    "start_time": "8:00am",
+                    "end_time": "9:15am",
+                    "day_of_week": "thu",
+                    "location": "Biological Science 404D"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "course_name": "CSCI 3030",
+            "section_crn": "49691",
+            "classes": [
+                {
+                    "start_time": "12:40pm",
+                    "end_time": "1:30pm",
+                    "day_of_week": "mon",
+                    "location": "Ecology 201"
+                },
+                {
+                    "start_time": "12:40pm",
+                    "end_time": "1:30pm",
+                    "day_of_week": "wed",
+                    "location": "Ecology 201"
+                },
+                {
+                    "start_time": "9:10am",
+                    "end_time": "10:00am",
+                    "day_of_week": "fri",
+                    "location": "Boyd Research & Education CTR 201"
+                }
+            ]
+        },
+        {
+            "course_name": "CSCI 4050",
+            "section_crn": "15157",
+            "classes": [
+                {
+                    "start_time": "10:20am",
+                    "end_time": "11:10am",
+                    "day_of_week": "mon",
+                    "location": "Geography Geology 200C"
+                },
+                {
+                    "start_time": "9:35am",
+                    "end_time": "10:50am",
+                    "day_of_week": "tue",
+                    "location": "Physics 303"
+                },
+                {
+                    "start_time": "9:35am",
+                    "end_time": "10:50am",
+                    "day_of_week": "thu",
+                    "location": "Physics 303"
+                }
+            ]
+        },
+        {
+            "course_name": "ECHD 3050",
+            "section_crn": "50944",
+            "classes": [
+                {
+                    "start_time": "11:30am",
+                    "end_time": "12:20pm",
+                    "day_of_week": "mon",
+                    "location": "Aderhold Hall 401"
+                },
+                {
+                    "start_time": "11:30am",
+                    "end_time": "12:20pm",
+                    "day_of_week": "wed",
+                    "location": "Aderhold Hall 401"
+                }
+            ]
+        },
+        {
+            "course_name": "CSCI 4720",
+            "section_crn": "39857",
+            "classes": [
+                {
+                    "start_time": "5:30pm",
+                    "end_time": "6:45pm",
+                    "day_of_week": "tue",
+                    "location": "Conner Hall 210"
+                },
+                {
+                    "start_time": "5:20pm",
+                    "end_time": "6:10pm",
+                    "day_of_week": "wed",
+                    "location": "Conner Hall 210"
+                },
+                {
+                    "start_time": "5:30pm",
+                    "end_time": "6:45pm",
+                    "day_of_week": "thu",
+                    "location": "Conner Hall 210"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "course_name": "CSCI 3030",
+            "section_crn": "58107",
+            "classes": [
+                {
+                    "start_time": "12:40pm",
+                    "end_time": "1:30pm",
+                    "day_of_week": "mon",
+                    "location": "Ecology 201"
+                },
+                {
+                    "start_time": "12:40pm",
+                    "end_time": "1:30pm",
+                    "day_of_week": "wed",
+                    "location": "Ecology 201"
+                },
+                {
+                    "start_time": "12:40pm",
+                    "end_time": "1:30pm",
+                    "day_of_week": "fri",
+                    "location": "Boyd Research & Education CTR 201"
+                }
+            ]
+        },
+        {
+            "course_name": "CSCI 4050",
+            "section_crn": "15157",
+            "classes": [
+                {
+                    "start_time": "10:20am",
+                    "end_time": "11:10am",
+                    "day_of_week": "mon",
+                    "location": "Geography Geology 200C"
+                },
+                {
+                    "start_time": "9:35am",
+                    "end_time": "10:50am",
+                    "day_of_week": "tue",
+                    "location": "Physics 303"
+                },
+                {
+                    "start_time": "9:35am",
+                    "end_time": "10:50am",
+                    "day_of_week": "thu",
+                    "location": "Physics 303"
+                }
+            ]
+        },
+        {
+            "course_name": "ECHD 3050",
+            "section_crn": "50944",
+            "classes": [
+                {
+                    "start_time": "11:30am",
+                    "end_time": "12:20pm",
+                    "day_of_week": "mon",
+                    "location": "Aderhold Hall 401"
+                },
+                {
+                    "start_time": "11:30am",
+                    "end_time": "12:20pm",
+                    "day_of_week": "wed",
+                    "location": "Aderhold Hall 401"
+                }
+            ]
+        },
+        {
+            "course_name": "CSCI 4720",
+            "section_crn": "31806",
+            "classes": [
+                {
+                    "start_time": "8:00am",
+                    "end_time": "8:50am",
+                    "day_of_week": "mon",
+                    "location": "Biological Science 404D"
+                },
+                {
+                    "start_time": "8:00am",
+                    "end_time": "9:15am",
+                    "day_of_week": "tue",
+                    "location": "Biological Science 404D"
+                },
+                {
+                    "start_time": "8:00am",
+                    "end_time": "9:15am",
+                    "day_of_week": "thu",
+                    "location": "Biological Science 404D"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "course_name": "CSCI 3030",
+            "section_crn": "58107",
+            "classes": [
+                {
+                    "start_time": "12:40pm",
+                    "end_time": "1:30pm",
+                    "day_of_week": "mon",
+                    "location": "Ecology 201"
+                },
+                {
+                    "start_time": "12:40pm",
+                    "end_time": "1:30pm",
+                    "day_of_week": "wed",
+                    "location": "Ecology 201"
+                },
+                {
+                    "start_time": "12:40pm",
+                    "end_time": "1:30pm",
+                    "day_of_week": "fri",
+                    "location": "Boyd Research & Education CTR 201"
+                }
+            ]
+        },
+        {
+            "course_name": "CSCI 4050",
+            "section_crn": "15157",
+            "classes": [
+                {
+                    "start_time": "10:20am",
+                    "end_time": "11:10am",
+                    "day_of_week": "mon",
+                    "location": "Geography Geology 200C"
+                },
+                {
+                    "start_time": "9:35am",
+                    "end_time": "10:50am",
+                    "day_of_week": "tue",
+                    "location": "Physics 303"
+                },
+                {
+                    "start_time": "9:35am",
+                    "end_time": "10:50am",
+                    "day_of_week": "thu",
+                    "location": "Physics 303"
+                }
+            ]
+        },
+        {
+            "course_name": "ECHD 3050",
+            "section_crn": "50944",
+            "classes": [
+                {
+                    "start_time": "11:30am",
+                    "end_time": "12:20pm",
+                    "day_of_week": "mon",
+                    "location": "Aderhold Hall 401"
+                },
+                {
+                    "start_time": "11:30am",
+                    "end_time": "12:20pm",
+                    "day_of_week": "wed",
+                    "location": "Aderhold Hall 401"
+                }
+            ]
+        },
+        {
+            "course_name": "CSCI 4720",
+            "section_crn": "39857",
+            "classes": [
+                {
+                    "start_time": "5:30pm",
+                    "end_time": "6:45pm",
+                    "day_of_week": "tue",
+                    "location": "Conner Hall 210"
+                },
+                {
+                    "start_time": "5:20pm",
+                    "end_time": "6:10pm",
+                    "day_of_week": "wed",
+                    "location": "Conner Hall 210"
+                },
+                {
+                    "start_time": "5:30pm",
+                    "end_time": "6:45pm",
+                    "day_of_week": "thu",
+                    "location": "Conner Hall 210"
+                }
+            ]
+        }
+    ]
+]
