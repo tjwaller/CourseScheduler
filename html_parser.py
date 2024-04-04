@@ -173,4 +173,4 @@ print('-------------------------------------------------------------------------
 possible_schedules = generate_schedules(courses)
 schedules_json = convert_to_json(possible_schedules)
 write_json_file(schedules_json, 'schedules.json')
-# print_schedules(possible_schedules)
+print_schedules(possible_schedules)
