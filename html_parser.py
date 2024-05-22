@@ -163,7 +163,7 @@ html_content = read_html_file('schedule.html')
 
 # Parse HTML and get courses
 courses = parse_html(html_content)
-print_courses(courses)
+# print_courses(courses)
 
 print('-----------------------------------------------------------------------------------------------------------------------')
 
